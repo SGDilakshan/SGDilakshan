@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sivanathandilakshan/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
   <a href="https://medium.com/@sivanathandilakshan"><img alt="Medium" src="https://img.shields.io/badge/medium-white?style=for-the-badge&logo=medium&logoColor=black"></a>&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/sgd_dilakshan"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-darkgreen?style=for-the-badge&logo=hackerrank"></a>&nbsp;&nbsp;
+  <!-- <a href="https://www.hackerrank.com/profile/sgd_dilakshan"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-darkgreen?style=for-the-badge&logo=hackerrank"></a>&nbsp;&nbsp; -->
   <a href="mailto:dilakshan.info@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/contact%20me-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
