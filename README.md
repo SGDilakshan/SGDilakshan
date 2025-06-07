@@ -1,4 +1,5 @@
-# Hi👋, I’m Dilakshan <p align="right"> <img src="https://komarev.com/ghpvc/?username=Dilakshan&label=Profile%20views&color=0e75b6&style=flat" alt="Dilakshan" /> </p>
+### Hi 👋, I'm Dilakshan  
+<p align="right"><img src="https://komarev.com/ghpvc/?username=Dilakshan&label=Profile%20views&color=0e75b6&style=flat" alt="Dilakshan" /></p>
 
 🎓 Software Engineering Undergraduate – University of Kelaniya <br>📊 Aspiring Data Scientist | AI & ML Enthusiast <br>🧠 Passionate about solving real-world problems with intelligent, data-driven solutions <br><br>🔬 Core Skills <br>• Machine Learning & Deep Learning (CNNs, NLP) <br>• Data Analysis | Predictive Modeling | Time Series <br>• Data Visualization: Matplotlib, Seaborn, Plotly, Power BI <br>• Languages/Tools: Python | R | SQL | Pandas | Scikit-learn | NumPy | Jupyter | Colab <br><br>💼 Current Projects <br>• Building ML models with real-world datasets <br>• Creating beginner-friendly Data Science content <br>• Exploring AI for education & social impact <br><br>🤝 Open to Collaborations <br>• Data Science & AI Projects <br>• Applied ML/NLP Research <br>• Community-driven tech initiatives <br><br>🌱 Learning <br>• NLP | Advanced Deep Learning <br>• Cloud AI (AWS, GCP, Azure) <br>• Big Data Tools – Apache Spark, Hadoop
 
