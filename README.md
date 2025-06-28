@@ -11,3 +11,6 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=SGDilakshan&label=Profile%20views&color=0e75b6&style=flat" alt="Dilakshan" />
 </p>
+
+[![Dilakshan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SGDilakshan&bg_color=171717&color=ffffff&line=64e92b&point=ffffff&area=true&hide_border=true)]
+
