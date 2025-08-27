@@ -1,3 +1,9 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=SGDilakshan&label=Profile%20views&color=0e75b6&style=flat" alt="Dilakshan" />
+<!--   <a href="https://github.com/SGDilakshan?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/SGDilakshan?color=green&logo=github">
+  </a> -->
+</p>
 <h3 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2A93F7&vCenter=true&width=435&lines=Hi%F0%9F%91%8B,+I'm+Sivanathan+Dilakshan" alt="Typing SVG" />
@@ -5,17 +11,10 @@
 </h3>
 
 <h3 align="center"> 
-  🎓 B.Sc.(Hons.) Software Engineering Undergraduate | 💻 Full-Stack Developer <br>
-  🎥 YouTube Content Creator | 📐 Mathematics Tutor
+  🎓 B.Sc.(Hons.) Software Engineering Undergraduate | 💻 Full-Stack Developer | 🎥 YouTube Content Creator <br> 📐 Professional Combined & Higher Mathematics Instructor
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SGDilakshan&label=Profile%20views&color=0e75b6&style=flat" alt="Dilakshan" />
-  <a href="https://github.com/SGDilakshan?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/SGDilakshan?color=green&logo=github">
-  </a>
-</p>
-<h4 align="center"> 📞 Contact Me </h4>
+<!-- <h4 align="center"> 📞 Contact Me </h4> -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sivanathandilakshan/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;
   <a href="https://medium.com/@sivanathandilakshan"><img src="https://img.shields.io/badge/medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white"></a> &nbsp;
