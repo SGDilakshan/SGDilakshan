@@ -11,7 +11,7 @@
 </h3>
 
 <h3 align="center"> 
-  🎓 B.Sc.(Hons.) Software Engineering Undergraduate | 💻 Full-Stack Developer | 🎥 YouTube Content Creator <br> 📐 Professional Combined & Higher Mathematics Instructor
+  🎓 B.Sc.(Hons.) Software Engineering Undergraduate @UoK | 💻 Aspiring Full Stack Developer <br> 🎥 YouTube Content Creator | 📐 Professional Higher Mathematics Instructor
 </h3>
 
 <!-- <h4 align="center"> 📞 Contact Me </h4> -->
