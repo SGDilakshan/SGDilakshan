@@ -73,7 +73,7 @@
     <tr>
       <td align="center"><a href="https://medium.com/@sivanathandilakshan/mastering-object-oriented-programming-oop-in-java-78154eeebd2d">1. Object-Oriented Programming (OOP) in Java</a></td>
       <td align="center"><a href="https://medium.com/@sivanathandilakshan/solid-principles-explained-in-java-a5c0898f78a1">2. SOLID Principles Explained in JAVA</a></td>
-      <td align="center"><a href="https://medium.com/@sivanathandilakshan/-5b24c9b26e8c">3. Software Architecture C4 Model</a></td>
+      <td align="center"><a href="https://medium.com/@sivanathandilakshan/essential-design-patterns-in-java-ab5daa42a325">3. Essential Design Patterns in Java</a></td>
     </tr>
   </tbody>
 </table>
