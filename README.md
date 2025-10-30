@@ -71,9 +71,19 @@
 <table align="center">
   <tbody>
     <tr>
-      <td align="center"><a href="https://medium.com/@sivanathandilakshan/mastering-object-oriented-programming-oop-in-java-78154eeebd2d">1. Object-Oriented Programming (OOP) in Java</a></td>
-      <td align="center"><a href="https://medium.com/@sivanathandilakshan/solid-principles-explained-in-java-a5c0898f78a1">2. SOLID Principles Explained in JAVA</a></td>
-      <td align="center"><a href="https://medium.com/@sivanathandilakshan/essential-design-patterns-in-java-ab5daa42a325">3. Essential Design Patterns in Java</a></td>
+      <td align="center"><a href="https://medium.com/@sivanathandilakshan/mastering-object-oriented-programming-oop-in-java-78154eeebd2d">01. Object-Oriented Programming (OOP) in Java</a></td>
+      <td align="center"><a href="https://medium.com/@sivanathandilakshan/solid-principles-explained-in-java-a5c0898f78a1">02. SOLID Principles Explained in JAVA</a></td>
+      <td align="center"><a href="https://medium.com/@sivanathandilakshan/essential-design-patterns-in-java-ab5daa42a325">03. Essential Design Patterns in Java</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://medium.com/@sivanathandilakshan/intro-to-mern-stack-34c2b9d9d990">04. Intro to MERN Stack</a></td>
+      <td align="center"><a href="https://medium.com/@sivanathandilakshan/setup-mern-app-2025-713ce18f6d50">05. Setup MERN App 2025</a></td>
+      <td align="center"><a href="https://medium.com/@sivanathandilakshan/%EF%B8%8F-mongodb-basics-and-crud-operations-deb846008f04">06. MongoDB Basics and CRUD Operations</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://medium.com/@sivanathandilakshan/express-js-apis-and-routing-cfaacdd4a79e">07. ExpressJS APIs and Routing</a></td>
+      <td align="center"><a href="https://medium.com/@sivanathandilakshan/react-fundamentals-and-components-555235685412">08. React Fundamentals and Components</a></td>
+      <td align="center"><a href="https://medium.com/@sivanathandilakshan/%EF%B8%8Freact-hooks-state-management-803e471d5a9b">09. React Hooks and State Management</a></td>
     </tr>
   </tbody>
 </table>
