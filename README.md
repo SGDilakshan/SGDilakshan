@@ -85,6 +85,21 @@
       <td align=""><a href="https://medium.com/@sivanathandilakshan/react-fundamentals-and-components-555235685412">08. React Fundamentals & Components</a></td>
       <td align=""><a href="https://medium.com/@sivanathandilakshan/%EF%B8%8Freact-hooks-state-management-803e471d5a9b">09. React Hooks & State Management</a></td>
     </tr>
+    <tr>
+      <td align=""><a href="https://medium.com/@dilakshansivanathan/react-routing-and-context-api-d958db782fe8">10. React Routing & Context API</a></td>
+      <td align=""><a href="https://medium.com/@dilakshansivanathan/connect-react-frontend-with-node-backend-8c336ab38691">11. Connect React Frontend with Node Backend</a></td>
+      <td align=""><a href="https://medium.com/@dilakshansivanathan/authentication-jwt-in-mern-stack-946925e382da">12. Authentication & JWT</a></td>
+    </tr>
+    <tr>
+      <td align=""><a href="https://medium.com/@dilakshansivanathan/%EF%B8%8Fmiddleware-role-based-access-in-mern-stack-46ae022ca78d">13. Middleware & Role Based Access</a></td>
+      <td align=""><a href="https://medium.com/@dilakshansivanathan/real-time-features-with-socket-io-in-mern-stack-0c38a56833e6">14. Real Time Features with Socketio</a></td>
+      <td align=""><a href="https://medium.com/@dilakshansivanathan/advanced-javascript-in-mern-stack-baa27bf2f458">15. Advanced JavaScript in MERN</a></td>
+    </tr>
+    <tr>
+      <td align=""><a href="https://medium.com/@dilakshansivanathan/file-uploads-and-media-management-in-mern-stack-45662e83eae2">16. File Uploads & Media Management</a></td>
+      <td align=""><a href="https://medium.com/@dilakshansivanathan/graphql-vs-rest-apis-in-mern-stack-41197ed70595">17. GraphQL vs REST APIs</a></td>
+      <td align=""><a href="https://medium.com/@dilakshansivanathan/%EF%B8%8F-error-handling-performance-optimization-in-mern-stack-2523b74b7cf9">18. Error Handling & Performance Optimization</a></td>
+    </tr>
   </tbody>
 </table>
 
